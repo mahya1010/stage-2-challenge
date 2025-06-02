@@ -76,6 +76,7 @@ We've already included [GLTFast](https://github.com/atteneder/glTFast) in the pr
 *Note: downloading the model on your computer and importing it the editor doesn't count. You should use the url to import the glb model directly in the Unity scene.*
 
 Submitted for review. Collaborators invited: @2ico, @lorafahmy01
+Screen capture video included at [https://github.com/mahya1010/stage-2-challenge/blob/main/Video/Stage-2-challenge-Video.mp4]
 
 ## Final notes
 
